@@ -1,0 +1,10 @@
+log/*.log
+tmp/**/*
+config/database.yml
+db/*.sqlite3
+public/photos
+config/database.yml
+public/javascripts/cache
+public/stylesheets/cache
+public/plugin_assets
+vendor/bundle

@@ -1,0 +1,69 @@
+community_name: Pittsburgh Garden Experiment
+community_tagline: "City Farming Journal"
+community_description:  "The Best Place for People Who Love to Farm"
+support_email:  "pge@pittsburghgardenexperiment.org"
+meta_description: 'A community of Pittsburgh Urban Farmers'
+meta_keywords: 'Pittsburgh, garden, farming, experiment, local, food, backyard, community'
+
+# for SEO reasons sometime you should control the robots on how they have to handle your content                                                                                    
+# listing of stuff which points to single posts or entries should normally not been indexed,                                                                                        
+# but the robot should follow the internal link to show the post                                                                                                                    
+robots_meta_list_content: 'index,follow'
+# the post itself should be indexed;
+# when links are included and they point to external sites, the robot should not follow
+robots_meta_show_content: 'index,nofollow'
+
+reserved_logins: [
+  'about', 
+  'account', 
+  'advertise', 
+  'ads', 
+  'application', 
+  'assets', 
+  'categories', 
+  'choices', 
+  'clippings', 
+  'clipping_images', 
+  'comments', 
+  'contests', 
+  'countries', 
+  'css_help', 
+  'events', 
+  'favorites', 
+  'faq', 
+  'featured', 
+  'forums', 
+  'friendships', 
+  'friendship_statuses', 
+  'home', 
+  'homepage_features', 
+  'images', 
+  'invitations', 
+  'javascripts', 
+  'login', 
+  'logout', 
+  'manage_photos', 
+  'messages', 
+  'metro_areas', 
+  'moderatorships', 
+  'new_clipping',  
+  'offerings', 
+  'photos', 
+  'polls', 
+  'popular', 
+  'popular_rss', 
+  'posts', 
+  'recent', 
+  'roles', 
+  'search', 
+  'signup', 
+  'sb_posts', 
+  'skills', 
+  'sitemap', 
+  'states',
+  'stylesheets', 
+  'tags', 
+  'theme', 
+  'topics', 
+  'users', 
+  'votes']
